@@ -1,5 +1,9 @@
 <img width="auto" src="https://avatars1.githubusercontent.com/u/62818276?s=400&u=4e1906bcb8c1eca43e49a802f1b4574d01083c4d&v=4">
 
+img {
+border-radius: 50%;
+}
+
 # Olá, Sou Vinícius! <a href=""><img src="https://img.icons8.com/dusk/64/000000/small-smile.png"/></a>
 
 Primeiramento quero dizer que gosto muito de tecnologia, é incrivel o quanto podemos realizar seja resolvendo problemas ou fazendo tarefas. É realmente fascinante poder ajudar as pessoas por meio da informação e comunicação.
