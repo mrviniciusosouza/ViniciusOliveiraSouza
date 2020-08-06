@@ -1,8 +1,5 @@
-<img width="auto" src="https://avatars1.githubusercontent.com/u/62818276?s=400&u=4e1906bcb8c1eca43e49a802f1b4574d01083c4d&v=4">
-img {
-height: 250px;
-width:250px;
-}
+<img width="auto" src="https://avatars1.githubusercontent.com/u/62818276?s=400&u=4e1906bcb8c1eca43e49a802f1b4574d01083c4d&v=4"
+height="250px" width="250px" border-radius="3px"> 
 
 # Olá, Sou Vinícius! <a href=""><img src="https://img.icons8.com/dusk/64/000000/small-smile.png"/></a>
 
